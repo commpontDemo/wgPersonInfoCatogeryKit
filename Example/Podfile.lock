@@ -1,0 +1,16 @@
+PODS:
+  - wgPersonInfoCatogeryKit (0.1.0)
+
+DEPENDENCIES:
+  - wgPersonInfoCatogeryKit (from `../`)
+
+EXTERNAL SOURCES:
+  wgPersonInfoCatogeryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  wgPersonInfoCatogeryKit: 4dff0b2f3ddf23e2227cc03b47e0d8ec9d2bb3a0
+
+PODFILE CHECKSUM: 59e5aeee32eb6a9e10289ef390192f2c634af42c
+
+COCOAPODS: 1.7.3
